@@ -18,13 +18,13 @@ Calendario de cursos
 * Lección 7: Generación de imágenes y detección de objetos
 * Lección 8: Audio
 
-**Bloque**:
+**Bloque 2**:
 * Lección 1: Taller de Pandas y Clasificación Tabular
 * Lección 2: Ingeniería de características y regresión tabular
 * Lección 3: Importancia de permutación, optimización bayesiana, validación cruzada y conjuntos de pruebas etiquetados
 * Lección 4: NODE, TabNet, DeepGBM
 
-**Bloque**:
+**Bloque 3**:
 * Lección 1: Introducción a la PNL y al LSTM
 * Lección 2: Clasificación completa de sentimientos, tokenizadores y ensamblaje
 * Lección 3: Otros modelos de PNL de última generación
