@@ -1,4 +1,4 @@
-![](https://github.com/TheStoneMX/FastAI2---Spanish/blob/master/fastai2_images/98678524_l.jpg?raw=true)
+![](https://github.com/TheStoneMX/FastAI2---Spanish/blob/master/fastai2_images/98678524_2.jpg?raw=true)
 
 # FastAI2 - Spanish
  La libreria de alto nivel para aprender e implementar Redes Neunorales
